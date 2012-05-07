@@ -1,0 +1,17 @@
+ZUCSID [GIT] commit aa5b3564: Add .reposman.
+
+
+Path  : git
+Date  : 2012-05-08 00:25:25 +0800
+Author: Afun Nahn
+Commit: aa5b35645d17754fef971c906956235cee03c02c
+
+    Add .reposman.
+
+
+
+ .reposman |    1 +
+ 1 file changed, 1 insertion(+)
+
+================================================================================
+

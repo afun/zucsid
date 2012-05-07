@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	compression = 0
+[pack]
+	packSizeLimit = 4m
+	compression = 0
+[gc]
+	auto = 0
